@@ -7,7 +7,7 @@ sky:
     username: root
     password: lmtwpl12345
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5t9xuoQTnxpFXzMCBNni
-    access-key-secret: lrEuTIQ5l3r62zrM2M36OevrNBo6IT
-    bucket-name: hy-tlias
+    endpoint: 
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
